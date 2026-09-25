@@ -27,3 +27,17 @@ I am back today. I am building my consistency.
 Consistency is the key for every advancement.
 
 - Mariella, Bujumbura
+
+- ## Day 3 - 25 Sept 2026 - What I Learned Today
+
+Today I finished Git & GitHub Fundamentals!
+
+Today I learned:
+- README is like my CV online
+- Committing daily is building in public
+- GitHub is where international developers will find me
+- I finished Days 1-3, tomorrow I start HTML & CSS!
+
+Next: Day 4-7 HTML & CSS Basics
+
+- Mariella, Bujumbura
