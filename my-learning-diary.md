@@ -28,7 +28,7 @@ Consistency is the key for every advancement.
 
 - Mariella, Bujumbura
 
-- ## Day 3 - 25 Sept 2026 - What I Learned Today
+## Day 3 - 25 Sept 2026 - What I Learned Today
 
 Today I finished Git & GitHub Fundamentals!
 
