@@ -41,3 +41,17 @@ Today I learned:
 Next: Day 4-7 HTML & CSS Basics
 
 - Mariella, Bujumbura
+
+- ## Day 4 - 28 Sept 2026 - Bujumbura - 4 AM!
+
+I was worried about not coding every day, but I realized:
+consistency is about coming back, not about never missing.
+
+Today I built my first HTML file!
+- Created index.html
+- Learned h1, h2, p, a tags
+- My first website is live in my repo!
+
+Feeling proud. Day 4 done!
+
+- Mariella
