@@ -28,7 +28,7 @@ Consistency is the key for every advancement.
 
 - Mariella, Bujumbura
 
-## Day 3 - 25 Sept 2026 - What I Learned Today
+# Day 3 - 25 Sept 2026 - What I Learned Today
 
 Today I finished Git & GitHub Fundamentals!
 
@@ -42,7 +42,7 @@ Next: Day 4-7 HTML & CSS Basics
 
 - Mariella, Bujumbura
 
-- ## Day 4 - 28 Sept 2026 - Bujumbura - 4 AM!
+## Day 4 - 28 Sept 2026 - Bujumbura - 4 AM!
 
 I was worried about not coding every day, but I realized:
 consistency is about coming back, not about never missing.
